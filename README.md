@@ -1,6 +1,6 @@
 # 🚦 Dynamic Traffic Optimization through Cloud-Enabled Big Data Analytics and Machine Learning
 
----
+
 
 ## 📘 Project Overview
 
@@ -141,9 +141,3 @@ IEEE 5th International Conference on Data Intelligence and Cognitive Informatics
 | **G. Gari Prabhash Reddy** | Data Analyst, Visualization & Report Writer |
 | **Dr. R. Naresh** | Research Guide |
 
----
-
-## 🪪 License
-
-This project is open-source for educational and research purposes.  
-Please credit the original authors when reusing or referencing this work.
