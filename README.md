@@ -1,4 +1,4 @@
-# 🚦 Dynamic Traffic Optimization through Cloud-Enabled Big Data Analytics and Machine Learning
+# 🚦 Dynamic Traffic Optimization
 
 
 
