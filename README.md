@@ -130,14 +130,3 @@ IEEE 5th International Conference on Data Intelligence and Cognitive Informatics
 
 **DOI:** [10.1109/ICDICI62993.2024.10810771](https://doi.org/10.1109/ICDICI62993.2024.10810771)
 
----
-
-## 👨‍💻 Contributors
-
-| Name | Role |
-|------|------|
-| **Kolli Vineeth** | Project Lead, ML Developer, Streamlit Integration |
-| **Kothoju Naresh** | Backend Developer, MongoDB Integration |
-| **G. Gari Prabhash Reddy** | Data Analyst, Visualization & Report Writer |
-| **Dr. R. Naresh** | Research Guide |
-
